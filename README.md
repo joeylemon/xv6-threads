@@ -1,6 +1,6 @@
 # xv6-threads
 
-This is a copy of the [xv6 repository](https://github.com/mit-pdos/xv6-public) which implements real kernel threads to xv6, including the addition of clone and join functions which create the foundation for a thread library that defines the thread_create, thread_join, lock_init, lock_acquire, and lock_release functions.
+This is a copy of the [xv6 repository](https://github.com/mit-pdos/xv6-public) which implements real kernel threads in xv6, including the addition of clone and join functions which create the foundation for a thread library that defines the thread_create, thread_join, lock_init, lock_acquire, and lock_release functions.
 
 This project was assigned in COSC361 Operating Systems taught by Dr. Micah Beck, as an assignment from the [OSTEP](https://github.com/remzi-arpacidusseau/ostep-projects) textbook.
 
